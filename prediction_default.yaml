@@ -1,0 +1,11 @@
+# Configuration automatique de base
+N0001:
+  chat_id: null
+  generated_at: '2025-01-06 12:00:00'
+  heure_lancement: '12:05'
+  heure_prediction: '12:10'  
+  launch_offset: 5
+  launched: false
+  message_id: null
+  statut: ⌛
+  verified: false

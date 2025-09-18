@@ -1,0 +1,120 @@
+N0250:
+  chat_id: null
+  generated_at: '2025-08-06 01:50:07'
+  heure_lancement: 02:47
+  heure_prediction: 02:50
+  launch_offset: 3
+  launched: false
+  message_id: null
+  statut: ⌛
+  verified: false
+N0350:
+  chat_id: null
+  generated_at: '2025-08-06 01:50:07'
+  heure_lancement: 03:49
+  heure_prediction: 03:50
+  launch_offset: 1
+  launched: false
+  message_id: null
+  statut: ⌛
+  verified: false
+N0450:
+  chat_id: null
+  generated_at: '2025-08-06 01:50:07'
+  heure_lancement: 04:47
+  heure_prediction: 04:50
+  launch_offset: 3
+  launched: false
+  message_id: null
+  statut: ⌛
+  verified: false
+N0550:
+  chat_id: null
+  generated_at: '2025-08-06 01:50:07'
+  heure_lancement: 05:47
+  heure_prediction: 05:50
+  launch_offset: 3
+  launched: false
+  message_id: null
+  statut: ⌛
+  verified: false
+N0650:
+  chat_id: null
+  generated_at: '2025-08-06 01:50:07'
+  heure_lancement: 06:46
+  heure_prediction: 06:50
+  launch_offset: 4
+  launched: false
+  message_id: null
+  statut: ⌛
+  verified: false
+N0750:
+  chat_id: null
+  generated_at: '2025-08-06 01:50:07'
+  heure_lancement: 07:47
+  heure_prediction: 07:50
+  launch_offset: 3
+  launched: false
+  message_id: null
+  statut: ⌛
+  verified: false
+N0850:
+  chat_id: null
+  generated_at: '2025-08-06 01:50:07'
+  heure_lancement: 08:49
+  heure_prediction: 08:50
+  launch_offset: 1
+  launched: false
+  message_id: null
+  statut: ⌛
+  verified: false
+N0950:
+  chat_id: null
+  generated_at: '2025-08-06 01:50:07'
+  heure_lancement: 09:48
+  heure_prediction: 09:50
+  launch_offset: 2
+  launched: false
+  message_id: null
+  statut: ⌛
+  verified: false
+N1050:
+  chat_id: null
+  generated_at: '2025-08-06 01:50:07'
+  heure_lancement: '10:47'
+  heure_prediction: '10:50'
+  launch_offset: 3
+  launched: false
+  message_id: null
+  statut: ⌛
+  verified: false
+N1150:
+  chat_id: null
+  generated_at: '2025-08-06 01:50:07'
+  heure_lancement: '11:47'
+  heure_prediction: '11:50'
+  launch_offset: 3
+  launched: false
+  message_id: null
+  statut: ⌛
+  verified: false
+N1250:
+  chat_id: null
+  generated_at: '2025-08-06 01:50:07'
+  heure_lancement: '12:46'
+  heure_prediction: '12:50'
+  launch_offset: 4
+  launched: false
+  message_id: null
+  statut: ⌛
+  verified: false
+N1350:
+  chat_id: null
+  generated_at: '2025-08-06 01:50:07'
+  heure_lancement: '13:48'
+  heure_prediction: '13:50'
+  launch_offset: 2
+  launched: false
+  message_id: null
+  statut: ⌛
+  verified: false
