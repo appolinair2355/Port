@@ -1,4 +1,4 @@
-
 telethon
 python-dotenv
 aiohttp
+PyYAML
