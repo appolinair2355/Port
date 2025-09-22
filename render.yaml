@@ -1,20 +1,25 @@
+
 services:
   - type: web
-    name: telegram-card-bot
+    name: kouam-bot
     env: python
-    buildCommand: "pip install -r render_requirements.txt"
-    startCommand: "python render_main.py"
     plan: free
-    region: frankfurt
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn --bind 0.0.0.0:$PORT main:app --workers 1 --timeout 120
     envVars:
-      - key: API_ID
-        sync: false
-      - key: API_HASH
-        sync: false
       - key: BOT_TOKEN
-        sync: false
-      - key: ADMIN_ID
+        sync: false  # À configurer manuellement dans Render dashboard
+      - key: WEBHOOK_URL
+        generateValue: true  # Render génère automatiquement
         sync: false
       - key: PORT
-        fromGroup: web
-    healthCheckPath: "/health"
+        generateValue: true  # Render fournit automatiquement
+      - key: DEBUG
+        value: "false"
+      - key: RENDER
+        value: "true"
+      - key: RENDER_SERVICE_NAME
+        generateValue: true  # Nom du service pour auto-génération URL
+    healthCheckPath: /health
+    regions:
+      - oregon
